@@ -6,12 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "ejs": "2.3.3",
-    "express": "4.13.3"
-  },
+  
   "engines": {
-    "node": "0.12.7"
+    "node": "4.2.4"
   },
   "repository": {
     "type": "git",
